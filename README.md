@@ -27,6 +27,8 @@ We will follow the steps given below to build a simple Generative Adversarial Ne
 7. Loading and processing MNIST data
 8. Training The GAN
 
+<p  align="center"><img src="GAN_images_output.png" alt="Coder GIF" width="600" height="500">
+
 References & Articles
 1. [Intro to GAN](https://gkadusumilli.github.io/Intro_to_GAN/)
 2. [How To Build A Generative Adversarial Network In 8 Simple Steps](https://analyticsindiamag.com/how-to-build-a-generative-adversarial-network-in-8-simple-steps/)
