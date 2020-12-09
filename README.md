@@ -1,4 +1,7 @@
 # Generative Adversarial Network
+
+> A generative adversarial network, or GAN, is a deep neural network framework which is able to learn from a set of training data and generate new data with the same characteristics as the training data.
+
 This repository is to demonstrate how we can create new images of a distribution of images with a Generative Adversarial Network (GAN).
 
 
